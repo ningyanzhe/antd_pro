@@ -1,0 +1,50 @@
+import mockjs from 'mockjs';
+export const data = [{
+  id:0,
+  name:'宁燕哲',
+  address:"北京",
+  age:"24",
+  marny:"2.1k"
+},{
+  id:1,
+  name:'任科浩',
+  address:"北京",
+  age:"24",
+  marny:"2.1k"
+},{
+  id:2,
+  name:'李兆廷',
+  address:"北京",
+  age:"24",
+  marny:"2.1k"
+},{
+  id:3,
+  name:'陈美锋',
+  address:"北京",
+  age:"24",
+  marny:"2.1k"
+},{
+  id:4,
+  name:'张永毅',
+  address:"北京",
+  age:"24",
+  marny:"2.1k"
+},{
+  id:5,
+  name:'黄林',
+  address:"北京",
+  age:"24",
+  marny:"2.1k"
+},{
+  id:6,
+  name:'龙作为',
+  address:"北京",
+  age:"24",
+  marny:"2.1k"
+},{
+  id:7,
+  name:'孙月',
+  address:"北京",
+  age:"24",
+  marny:"2.1k"
+}]
